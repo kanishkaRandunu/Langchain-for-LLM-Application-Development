@@ -1,0 +1,10 @@
+.env
+.venv/
+# macOS system files
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
